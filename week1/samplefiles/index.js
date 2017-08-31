@@ -1,4 +1,4 @@
-//a single line of comment in javascript looks like this
+// a single line of comment in javascript looks like this
 
 /*multiple lines of
  comments use the same
